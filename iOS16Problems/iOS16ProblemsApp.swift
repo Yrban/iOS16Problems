@@ -11,7 +11,7 @@ import SwiftUI
 struct iOS16ProblemsApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ListSecHeaderHeightView()
         }
     }
 }

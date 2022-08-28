@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		E8B2CA6928BBAE6200816B08 /* iOS16ProblemsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8B2CA6828BBAE6200816B08 /* iOS16ProblemsApp.swift */; };
-		E8B2CA6B28BBAE6200816B08 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8B2CA6A28BBAE6200816B08 /* ContentView.swift */; };
 		E8B2CA6D28BBAE6300816B08 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E8B2CA6C28BBAE6300816B08 /* Assets.xcassets */; };
 		E8B2CA7028BBAE6300816B08 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E8B2CA6F28BBAE6300816B08 /* Preview Assets.xcassets */; };
 		E8B2CA7A28BBAE6300816B08 /* iOS16ProblemsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8B2CA7928BBAE6300816B08 /* iOS16ProblemsTests.swift */; };
@@ -37,7 +36,6 @@
 /* Begin PBXFileReference section */
 		E8B2CA6528BBAE6200816B08 /* iOS16Problems.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iOS16Problems.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E8B2CA6828BBAE6200816B08 /* iOS16ProblemsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOS16ProblemsApp.swift; sourceTree = "<group>"; };
-		E8B2CA6A28BBAE6200816B08 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E8B2CA6C28BBAE6300816B08 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E8B2CA6F28BBAE6300816B08 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E8B2CA7528BBAE6300816B08 /* iOS16ProblemsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iOS16ProblemsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -97,7 +95,6 @@
 			isa = PBXGroup;
 			children = (
 				E8B2CA6828BBAE6200816B08 /* iOS16ProblemsApp.swift */,
-				E8B2CA6A28BBAE6200816B08 /* ContentView.swift */,
 				E8B2CA9228BBAF5000816B08 /* ListSecHeaderHeightView.swift */,
 				E8B2CA6C28BBAE6300816B08 /* Assets.xcassets */,
 				E8B2CA6E28BBAE6300816B08 /* Preview Content */,
@@ -261,7 +258,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				E8B2CA9328BBAF5000816B08 /* ListSecHeaderHeightView.swift in Sources */,
-				E8B2CA6B28BBAE6200816B08 /* ContentView.swift in Sources */,
 				E8B2CA6928BBAE6200816B08 /* iOS16ProblemsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
