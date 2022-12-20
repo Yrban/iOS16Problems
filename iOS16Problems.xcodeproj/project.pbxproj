@@ -20,13 +20,13 @@
 		93B956AB29478EB300D931A5 /* ColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93B956A829478EB300D931A5 /* ColorExtension.swift */; };
 		93B956AC29478EB300D931A5 /* InsettableShapeExt.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93B956A929478EB300D931A5 /* InsettableShapeExt.swift */; };
 		93B956AD29478EB300D931A5 /* readSize.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93B956AA29478EB300D931A5 /* readSize.swift */; };
+		93B956AF29478FC400D931A5 /* OverRiddenAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93B956AE29478FC400D931A5 /* OverRiddenAnimationView.swift */; };
 		E8B2CA6928BBAE6200816B08 /* iOS16ProblemsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8B2CA6828BBAE6200816B08 /* iOS16ProblemsApp.swift */; };
 		E8B2CA6D28BBAE6300816B08 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E8B2CA6C28BBAE6300816B08 /* Assets.xcassets */; };
 		E8B2CA7028BBAE6300816B08 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E8B2CA6F28BBAE6300816B08 /* Preview Assets.xcassets */; };
 		E8B2CA7A28BBAE6300816B08 /* iOS16ProblemsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8B2CA7928BBAE6300816B08 /* iOS16ProblemsTests.swift */; };
 		E8B2CA8428BBAE6300816B08 /* iOS16ProblemsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8B2CA8328BBAE6300816B08 /* iOS16ProblemsUITests.swift */; };
 		E8B2CA8628BBAE6300816B08 /* iOS16ProblemsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8B2CA8528BBAE6300816B08 /* iOS16ProblemsUITestsLaunchTests.swift */; };
-		E8B2CA9328BBAF5000816B08 /* ListSecHeaderHeightView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8B2CA9228BBAF5000816B08 /* ListSecHeaderHeightView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,6 +60,7 @@
 		93B956A829478EB300D931A5 /* ColorExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorExtension.swift; sourceTree = "<group>"; };
 		93B956A929478EB300D931A5 /* InsettableShapeExt.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InsettableShapeExt.swift; sourceTree = "<group>"; };
 		93B956AA29478EB300D931A5 /* readSize.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = readSize.swift; sourceTree = "<group>"; };
+		93B956AE29478FC400D931A5 /* OverRiddenAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OverRiddenAnimationView.swift; sourceTree = "<group>"; };
 		E8B2CA6528BBAE6200816B08 /* iOS16Problems.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iOS16Problems.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E8B2CA6828BBAE6200816B08 /* iOS16ProblemsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOS16ProblemsApp.swift; sourceTree = "<group>"; };
 		E8B2CA6C28BBAE6300816B08 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -107,6 +108,7 @@
 				93B9569829478E9900D931A5 /* FruitContentView.swift */,
 				93B9569629478E9800D931A5 /* LazyVGridWidthPercent.swift */,
 				93B9569729478E9900D931A5 /* ListSecHeaderHeightView.swift */,
+				93B956AE29478FC400D931A5 /* OverRiddenAnimationView.swift */,
 				93B9569B29478E9900D931A5 /* SlideTransitions.swift */,
 				93B9569C29478E9900D931A5 /* TestViewModel.swift */,
 				93B9569529478E9800D931A5 /* TextFieldClearing.swift */,
@@ -317,12 +319,12 @@
 				93B956A029478E9900D931A5 /* ListSecHeaderHeightView.swift in Sources */,
 				93B9569F29478E9900D931A5 /* LazyVGridWidthPercent.swift in Sources */,
 				93B956A529478E9900D931A5 /* TestViewModel.swift in Sources */,
+				93B956AF29478FC400D931A5 /* OverRiddenAnimationView.swift in Sources */,
 				93B956A329478E9900D931A5 /* ListDragBetweenSections.swift in Sources */,
 				93B956AC29478EB300D931A5 /* InsettableShapeExt.swift in Sources */,
 				93B9569E29478E9900D931A5 /* TextFieldClearing.swift in Sources */,
 				5B0598F728DFC9AA00293D0C /* BugView.swift in Sources */,
 				93B956A229478E9900D931A5 /* VStackTransitions.swift in Sources */,
-				E8B2CA9328BBAF5000816B08 /* ListSecHeaderHeightView.swift in Sources */,
 				93B956A129478E9900D931A5 /* FruitContentView.swift in Sources */,
 				E8B2CA6928BBAE6200816B08 /* iOS16ProblemsApp.swift in Sources */,
 				93B956AB29478EB300D931A5 /* ColorExtension.swift in Sources */,
